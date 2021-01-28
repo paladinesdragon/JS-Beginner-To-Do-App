@@ -1,0 +1,30 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header,
+main {
+    padding:1rem;
+}
+
+.todo-list {
+    padding:1rem 3rem;
+}
+
+.todo {
+    padding-bottom:0.2rem;
+}
+
+.todo span {
+    padding-right:0.5rem;
+}
+
+.del-todo {
+    padding:0.1rem;
+}
